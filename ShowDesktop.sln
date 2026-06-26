@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowDesktop", "ShowDesktop.csproj", "{70C3D696-CD5C-49C3-B32D-FA7CBA6422C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SmallRelease|Any CPU = SmallRelease|Any CPU
+		Tiny|Any CPU = Tiny|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C3D696-CD5C-49C3-B32D-FA7CBA6422C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C3D696-CD5C-49C3-B32D-FA7CBA6422C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C3D696-CD5C-49C3-B32D-FA7CBA6422C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C3D696-CD5C-49C3-B32D-FA7CBA6422C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C3D696-CD5C-49C3-B32D-FA7CBA6422C4}.SmallRelease|Any CPU.ActiveCfg = SmallRelease|Any CPU
+		{70C3D696-CD5C-49C3-B32D-FA7CBA6422C4}.SmallRelease|Any CPU.Build.0 = SmallRelease|Any CPU
+		{70C3D696-CD5C-49C3-B32D-FA7CBA6422C4}.Tiny|Any CPU.ActiveCfg = Tiny|Any CPU
+		{70C3D696-CD5C-49C3-B32D-FA7CBA6422C4}.Tiny|Any CPU.Build.0 = Tiny|Any CPU
+	EndGlobalSection
+EndGlobal
