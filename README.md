@@ -81,7 +81,7 @@ Check out my other projects:
     </td>
     <td align="center">
       <a href="https://www.appbite.com/">
-        <img src="https://www.appbite.com/wp-content/themes/scarlett/images/appbite-logo-square-280x280.png" width="60" height="60" alt="Appbite" />
+        <img src="https://www.appbite.com/apps/appbite-logo-square-120x120-transparent.png" width="60" height="60" alt="Appbite" />
       </a>
       <br />
       <a href="https://www.appbite.com/">Appbite</a>
