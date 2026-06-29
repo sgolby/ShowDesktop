@@ -1,9 +1,15 @@
-# Show Desktop
+<p align="center">
+  <img src="icon.png" alt="Show Desktop" width="128" />
+</p>
 
-[![Latest release](https://img.shields.io/github/v/release/sgolby/ShowDesktop?label=release&color=2ea44f)](https://github.com/sgolby/ShowDesktop/releases/latest)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6?logo=windows&logoColor=white)](https://github.com/sgolby/ShowDesktop)
-[![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/download/dotnet/8.0)
-[![License: MIT](https://img.shields.io/github/license/sgolby/ShowDesktop?color=blue)](LICENSE)
+<h1 align="center">Show Desktop</h1>
+
+<p align="center">
+  <a href="https://github.com/sgolby/ShowDesktop/releases/latest"><img src="https://img.shields.io/github/v/release/sgolby/ShowDesktop?label=release&color=2ea44f" alt="Latest release" /></a>
+  <a href="https://github.com/sgolby/ShowDesktop"><img src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6?logo=windows&logoColor=white" alt="Platform" /></a>
+  <a href="https://dotnet.microsoft.com/download/dotnet/8.0"><img src="https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white" alt=".NET" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/sgolby/ShowDesktop?color=blue" alt="License: MIT" /></a>
+</p>
 
 A tiny Windows utility that shows the desktop. Run it once to minimize all windows; run it again to restore them.
 
@@ -59,6 +65,36 @@ dotnet publish ShowDesktop.csproj -c Release
 ```
 
 
+
+## Other Projects
+
+Check out my other projects:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.actuallyinteracting.com/">
+        <img src="https://www.actuallyinteracting.com/images/Logo-IRL-1-transparent.png" width="60" height="60" alt="IRL - Actually Interacting" />
+      </a>
+      <br />
+      <a href="https://www.actuallyinteracting.com/">IRL - Actually Interacting</a>
+    </td>
+    <td align="center">
+      <a href="https://www.appbite.com/">
+        <img src="https://www.appbite.com/wp-content/themes/scarlett/images/appbite-logo-square-280x280.png" width="60" height="60" alt="Appbite" />
+      </a>
+      <br />
+      <a href="https://www.appbite.com/">Appbite</a>
+    </td>
+    <td align="center">
+      <a href="https://www.appbite.com/apps/hext/">
+        <img src="https://www.appbite.com/apps/hext/Icon2-Hext-Orange-180x180.png" width="60" height="60" alt="HexT - Puzzle Game" />
+      </a>
+      <br />
+      <a href="https://www.appbite.com/apps/hext/">HexT - Puzzle Game</a>
+    </td>
+  </tr>
+</table>
 
 ## License
 

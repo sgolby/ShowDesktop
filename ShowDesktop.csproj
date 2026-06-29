@@ -8,6 +8,7 @@
         <Platforms>AnyCPU</Platforms>
         <AssemblyTitle>Show Desktop</AssemblyTitle>
         <Product>Show Desktop</Product>
+        <Version>1.0.0</Version>
     </PropertyGroup>
 
     <PropertyGroup Condition="'$(Configuration)' == 'Release'">
@@ -15,6 +16,8 @@
         <SelfContained>true</SelfContained>
         <RuntimeIdentifier>win-x64</RuntimeIdentifier>
         <DebugType>none</DebugType>
+        <AssemblyName>ShowDesktop-v$(Version)</AssemblyName>
+        <PublishDir>$(MSBuildProjectDirectory)\bin\</PublishDir>
     </PropertyGroup>
 
     <PropertyGroup Condition="'$(Configuration)' == 'SmallRelease'">
@@ -23,12 +26,16 @@
         <SelfContained>true</SelfContained>
         <RuntimeIdentifier>win-x64</RuntimeIdentifier>
         <DebugType>none</DebugType>
+        <AssemblyName>ShowDesktop-v$(Version)-small</AssemblyName>
+        <PublishDir>$(MSBuildProjectDirectory)\bin\</PublishDir>
     </PropertyGroup>
 
     <PropertyGroup Condition="'$(Configuration)' == 'Tiny'">
         <PublishAot>true</PublishAot>
         <RuntimeIdentifier>win-x64</RuntimeIdentifier>
         <DebugType>none</DebugType>
+        <AssemblyName>ShowDesktop-v$(Version)-tiny</AssemblyName>
+        <PublishDir>$(MSBuildProjectDirectory)\bin\</PublishDir>
     </PropertyGroup>
 
 </Project>
